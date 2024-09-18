@@ -25,9 +25,9 @@ author:
   name             : "Lai Wei"
   pronouns         : # example: "she/her"  
   bio              : "Master student in Computer Science at UC San Diego"
-  location         : "La Jolla, CA"
+  location         : " La Jolla, CA"
   employer         : "UC San Diego"
-  uri              : # URL
+  uri              : "https://I-am-Future.github.io" 
   email            : "law016 at ucsd dot edu" 
 
   # Academic websites
