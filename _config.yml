@@ -21,7 +21,7 @@ repository               : "I-am-Future/I-am-Future.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lai Wei"
   pronouns         : # example: "she/her"  
   bio              : "Master student in Computer Science at UC San Diego"
