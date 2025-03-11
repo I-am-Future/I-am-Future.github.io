@@ -2,11 +2,11 @@
 title: "Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration"
 collection: publications
 category: conferences
-permalink: /publication/4-2025-icra
+permalink: /publication/4-2025-safediff
 excerpt: ''
 date: 2024-09-15
-venue: ''
-paperurl: '/files/publication/2025-icra.pdf'
+venue: 'Revision and Resubmission'
+paperurl: '/files/publication/2025-safediff.pdf'
 # citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 citation: '<b>L. Wei</b>, J. Ma, Y. Hu, and R. Zhang, "Ensuring Force Safety in Vision-Guided Robotic Manipulation via Implicit Tactile Calibration", 2024. arXiv preprint arXiv:2412.10349.'
 ---
